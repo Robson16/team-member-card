@@ -6,7 +6,7 @@
 	"title": "Team Member Card",
 	"category": "widgets",
 	"icon": "smiley",
-	"description": "Example block written with ESNext standard and JSX support – build step required.",
+	"description": "A custom WP Block for a Team Member Card",
 	"supports": {
 		"html": false
 	},
